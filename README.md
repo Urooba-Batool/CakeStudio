@@ -31,7 +31,7 @@ A responsive bakery website created using HTML, CSS, and JavaScript. Designed to
 ---
 -->
 ## 🌐 Live Demo
-> [Add a live link here if you deploy it using GitHub Pages or Netlify](https://cakeestudio.netlify.app/)
+> [Live link to CakeStudio](https://cakeestudio.netlify.app/)
 
 ---
 
