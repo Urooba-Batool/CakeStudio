@@ -7,8 +7,8 @@ A responsive bakery website created using HTML, CSS, and JavaScript. Designed to
 ## 💻 Tech Stack
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
-- Bootstrap (if used)
+- JavaScript
+- Bootstrap 
 
 ---
 
@@ -31,9 +31,25 @@ A responsive bakery website created using HTML, CSS, and JavaScript. Designed to
 ---
 -->
 ## 🌐 Live Demo
-> Add a live link here if you deploy it using GitHub Pages or Netlify
+> [Add a live link here if you deploy it using GitHub Pages or Netlify](https://cakeestudio.netlify.app/)
 
 ---
 
 ## 📁 Folder Structure
-
+cakestudio/
+├── index.html
+├── css/
+│ └── styles.css
+│ └── contact.css
+├── js/
+│ └── script.js
+├── images/
+│ └── (all images used)
+├── about.html
+├── bites.html
+├── cart.html
+├── contact.html
+├── deals.html
+├── fudge.html
+├── order.html
+└── pops.html
